@@ -16,19 +16,12 @@
     header {
       padding: 20px;
       background-color: #f4f4f4;
-      display: flex;
-      align-items: center;
-      gap: 20px;
-    }
-
-    header img {
-      max-width: 150px;
-      border-radius: 50%;
     }
 
     header h1 {
       margin: 0;
       font-size: 1.5em;
+      text-align: left;
     }
 
     section {
@@ -67,22 +60,12 @@
         font-size: 16px;
         padding: 10px;
       }
-
-      header {
-        flex-direction: column;
-        text-align: left;
-      }
-
-      header img {
-        max-width: 120px;
-      }
     }
   </style>
 </head>
 <body>
-  <!-- Header Section with Photo -->
+  <!-- Header Section -->
   <header>
-    <img src="your-photo.jpg" alt="Tony Wahl's Photo" />
     <h1>About Me</h1>
   </header>
 
@@ -112,3 +95,4 @@
   </section>
 </body>
 </html>
+
