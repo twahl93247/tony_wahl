@@ -15,7 +15,7 @@
 
     header {
       padding: 20px;
-      background-color: #f4f4f4;
+      background-color: #ffffff;
     }
 
     header h1 {
