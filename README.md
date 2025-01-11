@@ -1,3 +1,4 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <section id="bio">
   <h2>About Me</h2>
   <div class="bio-container">
