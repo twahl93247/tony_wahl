@@ -81,8 +81,8 @@
   <section id="projects">
     <h2>My Projects</h2>
     <ul>
-      <li><a href="project1.html">Project 1</a></li>
-      <li><a href="project2.html">Project 2</a></li>
+      <li><a href="project1.html">- Yesler Towers- floor plans</a></li>
+      <li><a href="project2.html">- Yesler Towers- Elevator 7</a></li>
       <li><a href="project3.html">Project 3</a></li>
     </ul>
   </section>
