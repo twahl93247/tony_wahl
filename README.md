@@ -17,5 +17,5 @@
 <section id="resume">
 <h2>My Resume</h2>
 <p>click the link below to view my resume:</p>
-  <a href="/Users/toni/Downloads" target="_blank" class="resume-link">view resume</a>
+  <a href="ResumeTony Wahl Resume 25_01.04.pdf" target="_blank" class="resume-link">view resume</a>
 </section>
