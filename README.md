@@ -12,7 +12,7 @@
 <center>     <li><a href="project1.html">Project 1</a></li>
 <center>     <li><a href="project2.html">Project 2</a></li>
 <center>     <li><a href="project3.html">Project 3</a></li>
-  </ul>
+
 </section>
 <center> <section id="resume">
 <center>   <h2>My Resume</h2>
