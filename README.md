@@ -25,5 +25,5 @@ a, button {
 <section id="resume">
 <center>   <h2>My Resume</h2>
 <center>   <p>click the link below to view my resume:</p>
-  <a href="path-to-your-resume.pdf" target="_blank" class="resume-link">View/Download Resume</a>
+  <a href="/Users/toni/Desktop" target="_blank" class="resume-link">view resume</a>
 </section>
