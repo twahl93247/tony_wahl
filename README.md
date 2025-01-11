@@ -17,17 +17,17 @@
     header {
       padding: 20px;
       background-color: #f4f4f4;
+      display: flex;
+      align-items: center;
+      gap: 20px;
     }
 
     header img {
-      display: block;
       max-width: 150px;
-      margin: 0 auto 10px auto;
       border-radius: 50%;
     }
 
     header h1 {
-      text-align: center;
       margin: 0;
       font-size: 1.5em;
     }
@@ -46,10 +46,6 @@
       display: flex;
       flex-direction: column;
       gap: 15px;
-    }
-
-    .bio-text {
-      margin: 0;
     }
 
     ul {
@@ -71,6 +67,11 @@
       body {
         font-size: 16px;
         padding: 10px;
+      }
+
+      header {
+        flex-direction: column;
+        text-align: left;
       }
 
       header img {
