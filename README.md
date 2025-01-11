@@ -1,3 +1,11 @@
+body {
+  cursor: url('pencil-cursor.png') 10 10, auto; /* Adjust the cursor hotspot */
+}
+
+a, button {
+  cursor: url('pencil-cursor.png') 10 10, pointer;
+}
+
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <center><section id="bio">
 <center>  <h2>About Me</h2>
