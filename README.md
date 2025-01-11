@@ -5,57 +5,92 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Portfolio - Tony Wahl</title>
   <style>
-    /* Add basic styles for alignment */
+    /* Basic styling for the body */
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
       line-height: 1.6;
+      color: #333;
     }
-    section {
+
+    header {
       padding: 20px;
-      margin: 20px auto;
-      max-width: 800px;
+      background-color: #f4f4f4;
     }
-    h2 {
-      text-align: center;
-    }
-    .bio-container {
-      display: flex;
-      align-items: center;
-      flex-wrap: wrap;
-      gap: 20px;
-    }
-    .bio-photo {
+
+    header img {
+      display: block;
       max-width: 150px;
+      margin: 0 auto 10px auto;
       border-radius: 50%;
     }
-    .bio-text {
-      flex: 1;
+
+    header h1 {
+      text-align: center;
+      margin: 0;
+      font-size: 1.5em;
     }
+
+    section {
+      padding: 20px;
+      margin: 20px;
+    }
+
+    h2 {
+      font-size: 1.4em;
+      margin-bottom: 10px;
+    }
+
+    .bio-container {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    .bio-text {
+      margin: 0;
+    }
+
     ul {
       list-style-type: none;
       padding: 0;
     }
+
     li {
       margin: 10px 0;
     }
-    .resume-link {
+
+    a {
       color: blue;
       text-decoration: underline;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 600px) {
+      body {
+        font-size: 16px;
+        padding: 10px;
+      }
+
+      header img {
+        max-width: 120px;
+      }
     }
   </style>
 </head>
 <body>
+  <!-- Header Section with Photo -->
+  <header>
+    <img src="your-photo.jpg" alt="Tony Wahl's Photo" />
+    <h1>About Me</h1>
+  </header>
+
   <!-- About Me Section -->
   <section id="bio">
-    <h2>About Me</h2>
     <div class="bio-container">
-      <img src="your-photo.jpg" alt="Tony Wahl's Photo" class="bio-photo" />
-      <div class="bio-text">
-        <p>Hello, I'm Tony Wahl, an architectural designer with a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture and Environmental Design, with a focus on historic preservation. My work combines modern design practices with an appreciation for the history and character of existing structures.</p>
-        <p>Feel free to explore my projects and contact me if you're interested in working together.</p>
-      </div>
+      <p>Hello, I'm Tony Wahl, an architectural designer with a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture and Environmental Design, with a focus on historic preservation. My work combines modern design practices with an appreciation for the history and character of existing structures.</p>
+      <p>Feel free to explore my projects and contact me if you're interested in working together.</p>
     </div>
   </section>
 
@@ -73,7 +108,7 @@
   <section id="resume">
     <h2>My Resume</h2>
     <p>Click the link below to view my resume:</p>
-    <a href="Tony Wahl Resume 25_01.04.pdf" target="_blank" class="resume-link">View Resume</a>
+    <a href="Tony Wahl Resume 25_01.04.pdf" target="_blank">View Resume</a>
   </section>
 </body>
 </html>
