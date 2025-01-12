@@ -112,5 +112,15 @@
       slides[slideIndex-1].style.display = "block";
     }
   </script>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var repoNameElement = document.getElementById("tony_wahl");
+    if (repoNameElement) {
+      repoNameElement.style.display = "none";
+    }
+  });
+</script>
+  
 </body>
 </html>
