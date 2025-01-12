@@ -1,13 +1,6 @@
-</style>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<style>
-  /* Add this style to hide the repository name */
-  #tony_wahl {
-    display: none;
-  }
-</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -86,8 +79,10 @@
       text-align: center;
     }
 
-
-
+    /* Add this style to hide the repository name */
+    #repository-container-header {
+      display: none;
+    }
   </style>
 </head>
 <body>
@@ -114,11 +109,11 @@
         <div class="text">Project 1 Description</div>
       </div>
       <div class="slides">
-  <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
-    <img src="project2.jpg" style="width:100%">
-    <div class="text">Yesler Towers - Elevator 7 Description</div>
-  </a>
-</div>
+        <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
+          <img src="project2.jpg" style="width:100%">
+          <div class="text">Yesler Towers - Elevator 7 Description</div>
+        </a>
+      </div>
       <!-- Add more slides as needed -->
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
@@ -131,7 +126,7 @@
   </section>
   <section id="contact">
     <h2>Contact Me</h2>
-    <form action="mailto:email@tonywahl.design" method="post" enctype="text/plain">
+    <form action="mailto:twahl93@gmail.com" method="post" enctype="text/plain">
       <label for="name">Name:</label><br>
       <input type="text" id="name" name="name"><br>
       <label for="email">Email:</label><br>
@@ -143,8 +138,6 @@
   </section>
   <footer>
     <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
-  </footer>
-    <p>Contact: twahl93@gmail.com</p>
   </footer>
   <script>
     let slideIndex = 1;
