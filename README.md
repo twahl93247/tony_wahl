@@ -91,7 +91,7 @@
   <section id="resume">
     <h2>My Resume</h2>
     <p>Click the link below to view my resume:</p>
-    <a href="Tony Wahl Resume 25_01.04.pdf" target="_blank">View Resume</a>
+    <a href="Tony Wahl Resume 25_01.08.pdf" target="_blank">View Resume</a>
   </section>
     <script>
     let slideIndex = 1;
