@@ -91,7 +91,7 @@
   <section id="resume">
     <h2>My Resume</h2>
     <p>Click the link below to view my resume:</p>
-    <a href="Tony_Wahl_Resume_2501.04.pdf" target="_blank">View Resume</a>
+    <a href="Tony_Wahl_Resume_25_01.04.pdf" target="_blank">View Resume</a>
   </section>
 </body>
 </html>
