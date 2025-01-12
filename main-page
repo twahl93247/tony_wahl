@@ -1,3 +1,9 @@
+<style>
+  /* Add this style to hide the repository name */
+  #repository-container-header {
+    display: none;
+  }
+</style>
 <!DOCTYPE html>
 <html lang="en">
 <head>
