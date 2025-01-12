@@ -115,9 +115,11 @@
         <div class="text">Project 1 Description</div>
       </div>
       <div class="slides">
-        <img src="project2.jpg" style="width:100%">
-        <div class="text">Project 2 Description</div>
-      </div>
+  <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
+    <img src="project2.jpg" style="width:100%">
+    <div class="text">Yesler Towers - Elevator 7 Description</div>
+  </a>
+</div>
       <!-- Add more slides as needed -->
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
