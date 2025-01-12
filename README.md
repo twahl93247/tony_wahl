@@ -12,6 +12,5 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 [View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
 
 ## Contact
-
-If you have any questions or would like to get in touch, please contact me at twahl93@gmail.com.
+twahl93@gmail.com
 
