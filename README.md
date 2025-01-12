@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Portfolio - Tony Wahl</title>
   <style>
     /* Basic styling for the body */
@@ -91,8 +92,7 @@
   <section id="resume">
     <h2>My Resume</h2>
     <p>Click the link below to view my resume:</p>
-    <a href="Tony Wahl Resume 25_01.04.pdf" target="_blank">View Resume</a>
+    <a href="Tony_Wahl_Resume_2501.04.pdf" target="_blank">View Resume</a>
   </section>
 </body>
 </html>
-
