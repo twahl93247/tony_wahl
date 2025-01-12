@@ -3,13 +3,11 @@
 Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
 
 ## My Projects
-- `main-page`: The main HTML page for the portfolio.
-- `style.css`: Stylesheet for the portfolio (if applicable).
-- `project1.jpg`, `project2.jpg`: Example images used in the portfolio.
+- Project 1 
+- Project 2 
+- Project 3
 
 ## My Resume 
-
-link below to my resume:
 
 [View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
 
