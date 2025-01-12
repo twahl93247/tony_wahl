@@ -9,7 +9,9 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 
 ## My Resume 
 
-My Resume
+Click the link below to view my resume:
+
+[View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
 
 ## Contact
 
