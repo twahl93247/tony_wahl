@@ -9,7 +9,7 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 
 ## My Resume 
 
-view resume 
+My Resume
 
 ## Contact
 
