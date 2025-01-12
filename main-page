@@ -1,6 +1,6 @@
 <style>
   /* Add this style to hide the repository name */
-  #repository-container-header {
+  #tony_wahl-container-header {
     display: none;
   }
 </style>
