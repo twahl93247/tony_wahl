@@ -80,10 +80,15 @@
       text-align: center;
     }
 
-  /* Add this style to hide the repository name */
-  #tony_wahl-container-header {
-    display: none;
-  }
+  <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var repoNameElement = document.getElementById("tony_wahl");
+    if (repoNameElement) {
+      repoNameElement.style.display = "none";
+    }
+  });
+</script>
+
   </style>
 </head>
 <body>
