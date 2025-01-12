@@ -2,6 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<style>
+  /* Add this style to hide the repository name */
+  #tony_wahl {
+    display: none;
+  }
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
@@ -80,12 +86,7 @@
       text-align: center;
     }
 
-<style>
-  /* Add this style to hide the repository name */
-  #tony_wahl {
-    display: none;
-  }
-</style>
+
 
   </style>
 </head>
