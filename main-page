@@ -1,8 +1,3 @@
-<style>
-  /* Add this style to hide the repository name */
-  #tony_wahl-container-header {
-    display: none;
-  }
 </style>
 <!DOCTYPE html>
 <html lang="en">
@@ -84,6 +79,11 @@
       width: 100%;
       text-align: center;
     }
+
+  /* Add this style to hide the repository name */
+  #tony_wahl-container-header {
+    display: none;
+  }
   </style>
 </head>
 <body>
