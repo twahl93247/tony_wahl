@@ -4,7 +4,7 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 
 ## My Projects
 - Project 1 
-- Project 2 
+- Yesler Towers - Elevator 7 
 - Project 3
 
 ## My Resume 
