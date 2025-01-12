@@ -1,17 +1,16 @@
-# Tony Wahl - Architecture Portfolio
+# Tony Wahl - About Me
 
-Welcome to my architecture portfolio. This repository contains the source code for my personal website where you can explore my work, view my projects, and learn about my design philosophy.
+Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
 
-## Structure
-
+## My Projects
 - `main-page`: The main HTML page for the portfolio.
 - `style.css`: Stylesheet for the portfolio (if applicable).
 - `project1.jpg`, `project2.jpg`: Example images used in the portfolio.
 
-## How to View
+## My Resume 
 
-To view the portfolio, simply open the `main-page` file in a web browser.
+view resume 
 
 ## Contact
 
-If you have any questions or would like to get in touch, please contact me at email@tonywahl.design.
+If you have any questions or would like to get in touch, please contact me at twahl93@gmail.com.
