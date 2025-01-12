@@ -4,7 +4,7 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 
 ## My Projects
 - Project 1 
-- Yesler Towers - Elevator 7 
+- [Yesler Towers - Elevator 7](23_08.08%20PHASE%203%20PERMIT%20REVISION%20-%20ELEVATOR%207.pdf)
 - Project 3
 
 ## My Resume 
@@ -12,5 +12,4 @@ Hello, I'm Tony Wahl, an architectural designerwith a passion for creating innov
 [View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
 
 ## Contact
-twahl93@gmail.com
-
+[twahl93@gmail.com](mailto:twahl93@gmail.com)
