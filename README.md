@@ -17,7 +17,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
 
 
-<section id="slideshow">
+<center><section id="slideshow">
   <h2> </h2>
   <div class="slideshow-container" style="max-width:100%; overflow:hidden;">
     <div class="slides">
