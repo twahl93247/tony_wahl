@@ -57,8 +57,6 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
       <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
  
-</section>
-
 <script>
   let slideIndex = 0;
   showSlides();
