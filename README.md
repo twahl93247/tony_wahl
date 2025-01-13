@@ -19,55 +19,55 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 <center><section id="slideshow">
   <h2>Project Slideshow</h2>
   <div class="slideshow-container" style="max-width:100%; overflow:hidden; margin:auto;">
-    <div class="slides fade">
+    <div class="slides">
       <img src="YT_PHOTO 1.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 3.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 4.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 5.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 9.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 10.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 11.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides fade">
+   <div class="slides">
      <img src="YT_PHOTO 12.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
