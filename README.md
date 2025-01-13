@@ -17,7 +17,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
 
 <center><section id="slideshow">
-  <h2>Project Slideshow</h2>
+  <h2>     </h2>
   <div class="slideshow-container" style="max-width:100%; overflow:hidden; margin:auto;">
     <div class="slides">
       <img src="YT_PHOTO 1.jpg" style="height:600px; width:auto; object-fit:cover;">
