@@ -19,54 +19,56 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 
 <section id="slideshow">
   <h2> </h2>
-  <div class="slideshow-container">
+  <div class="slideshow-container" style="max-width:100%; overflow:hidden;">
     <div class="slides">
       <img src="YT_PHOTO 1.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
+    </div>
+    <div class="slides">
     </div>
    <div class="slides">
      <img src="YT_PHOTO 3.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 4.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 5.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 6.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 7.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 9.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 10.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 11.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 12.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
      <img src="YT_PHOTO 13.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
+      <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
     <!-- Add more slides as needed -->
   </div>
