@@ -150,7 +150,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     slideIndex++;
     if (slideIndex > slides.length) {slideIndex = 1}
     slides[slideIndex-1].style.display = "block";
-    setTimeout(showSlides, 5000); // Change image every 5 seconds
+    setTimeout(showSlides, 8000); // Change image every 8 seconds
   }
 
   function plusSlides(n) {
