@@ -5,9 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="description" content="Tony Wahl - Architectural designer portfolio showcasing innovative and sustainable designs. Explore projects and learn more.">
- 
 
-<title>Tony Wahl - Architecture Portfolio</title>
+  <title>Tony Wahl - Architecture Portfolio</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -17,46 +16,38 @@
       color: #333;
       filter: none;
     }
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-nav ul {
-  flex-wrap: wrap;
-}
-
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+    nav ul {
+      flex-wrap: wrap;
+    }
     header, nav, section, footer {
       padding: 20px;
       margin: 10px;
     }
-
     nav ul {
       list-style-type: none;
       padding: 0;
       display: flex;
       gap: 15px;
     }
-
     nav ul li {
       display: inline;
     }
-
     nav ul li a {
       text-decoration: none;
       color: blue;
     }
-
     .slideshow-container {
       max-width: 1000px;
       position: relative;
       margin: auto;
     }
-
     .slides {
       display: none;
     }
-
     .prev, .next {
       cursor: pointer;
       position: absolute;
@@ -71,16 +62,13 @@ nav ul {
       border-radius: 0 3px 3px 0;
       user-select: none;
     }
-
     .next {
       right: 0;
       border-radius: 3px 0 0 3px;
     }
-
     .prev:hover, .next:hover {
       background-color: rgba(0,0,0,0.8);
     }
-
     .text {
       color: #f2f2f2;
       font-size: 15px;
@@ -89,12 +77,10 @@ nav ul {
       bottom: 8px;
       width: 100%;
       text-align: center;
-  }
-
+    }
     #tony_wahl {
       display: none;
     }
-
     .highlight {
       color: orange;
     }
@@ -105,72 +91,88 @@ nav ul {
   <img src="Yesler Towers_Photo_2.jpg" alt="Header Image" style="width:100%; height:auto;">
   <h1>Welcome to My Architecture Portfolio</h1>
 </header>
-  <nav>
-    <ul>
-      <li><a href="#bio">About Me</a></li>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#resume">Resume</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-  <section id="bio">
-    <p>Hello! My name is Tony Wahl, and I am an architectural designer.</p>
-    <p>Here, you can explore my work, learn about my design philosophy, and view projects I have completed.</p>
-  </section>
-  <section id="projects">
-    <h2>My Projects</h2>
-    <div class="slideshow-container">
-      <div class="slides">
-        <img src="project1.jpg" style="width:100%">
-        <div class="text">Project 1 Description</div>
-      </div>
-      <div class="slides">
-        <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
-          <img src="project2.jpg" style="width:100%">
-          <div class="text highlight">Yesler Towers - Elevator 7 Description</div>
-        </a>
-      </div>
-      <!-- Add more slides as needed -->
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
+<nav>
+  <ul>
+    <li><a href="#bio">About Me</a></li>
+    <li><a href="#projects">Projects</a></li>
+    <li><a href="#resume">Resume</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+<section id="bio">
+  <p>Hello! My name is Tony Wahl, and I am an architectural designer.</p>
+  <p>Here, you can explore my work, learn about my design philosophy, and view projects I have completed.</p>
+</section>
+<section id="projects">
+  <h2>My Projects</h2>
+  <div class="slideshow-container">
+    <div class="slides">
+      <img src="project1.jpg" style="width:100%">
+      <div class="text">Project 1 Description</div>
     </div>
-  </section>
-  <section id="resume">
-    <h2>My Resume</h2>
-    <p>Click the link below to view my resume:</p>
-    <a href="Tony Wahl Resume 25_01.08.pdf" target="_blank">View Resume</a>
-  </section>
-  <section id="contact">
-    <h2>Contact Me</h2>
-    <form action="mailto:twahl93@gmail.com" method="post" enctype="text/plain">
-      <label for="name">Name:</label><br>
-      <input type="text" id="name" name="name"><br>
-      <label for="email">Email:</label><br>
-      <input type="email" id="email" name="email"><br>
-      <label for="message">Message:</label><br>
-      <textarea id="message" name="message"></textarea><br>
-      <input type="submit" value="Send">
-    </form>
-  </section>
-  <footer>
-    <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
-  </footer>
-  <script>
-    let slideIndex = 1;
-    showSlides(slideIndex);
-    function plusSlides(n) {
-      showSlides(slideIndex += n);
+    <div class="slides">
+      <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
+        <img src="project2.jpg" style="width:100%">
+        <div class="text highlight">Yesler Towers - Elevator 7 Description</div>
+      </a>
+    </div>
+    <!-- Add more slides as needed -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+</section>
+<section id="resume">
+  <h2>My Resume</h2>
+  <p>Click the link below to view my resume:</p>
+  <a href="Tony Wahl Resume 25_01.08.pdf" target="_blank">View Resume</a>
+</section>
+<section id="contact">
+  <h2>Contact Me</h2>
+  <form action="mailto:twahl93@gmail.com" method="post" enctype="text/plain">
+    <label for="name">Name:</label><br>
+    <input type="text" id="name" name="name"><br>
+    <label for="email">Email:</label><br>
+    <input type="email" id="email" name="email"><br>
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message"></textarea><br>
+    <input type="submit" value="Send">
+  </form>
+</section>
+<section id="slideshow">
+  <h2>Project Slideshow</h2>
+  <div class="slideshow-container">
+    <div class="slides">
+      <img src="project1.jpg" style="width:100%">
+      <div class="text">Project 1 Description</div>
+    </div>
+    <div class="slides">
+      <img src="project2.jpg" style="width:100%">
+      <div class="text">Project 2 Description</div>
+    </div>
+    <!-- Add more slides as needed -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+  </div>
+</section>
+<footer>
+  <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
+</footer>
+<script>
+  let slideIndex = 1;
+  showSlides(slideIndex);
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+  function showSlides(n) {
+    let i;
+    let slides = document.getElementsByClassName("slides");
+    if (n > slides.length) {slideIndex = 1}
+    if (n < 1) {slideIndex = slides.length}
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
     }
-    function showSlides(n) {
-      let i;
-      let slides = document.getElementsByClassName("slides");
-      if (n > slides.length) {slideIndex = 1}
-      if (n < 1) {slideIndex = slides.length}
-      for (i = 0; i < slides.length; i++) {
-          slides[i].style.display = "none";
-      }
-      slides[slideIndex-1].style.display = "block";
-    }
-  </script>
+    slides[slideIndex-1].style.display = "block";
+  }
+</script>
 </body>
 </html>
