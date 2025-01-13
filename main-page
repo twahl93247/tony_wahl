@@ -81,9 +81,7 @@
     }
 
     /* Add this style to hide the repository name */
-    #tony_wahl {
-      display: none;
-    }
+    #tony_wahl {display: none;}
 
     /* Highlighted elements in orange */
     .highlight {
