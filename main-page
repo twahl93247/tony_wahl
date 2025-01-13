@@ -4,8 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<meta name="description" content="Tony Wahl - Architectural designer portfolio showcasing innovative and sustainable designs. Explore projects and learn more.">
-
+  <meta name="description" content="Tony Wahl - Architectural designer portfolio showcasing innovative and sustainable designs. Explore projects and learn more.">
   <title>Tony Wahl - Architecture Portfolio</title>
   <style>
     body {
@@ -18,7 +17,7 @@
     }
     img {
       max-width: 100%;
-      height: auto;
+      height: 500px; /* Set a fixed height for all images */
     }
     nav ul {
       flex-wrap: wrap;
@@ -198,41 +197,23 @@
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
   </div>
 </section>
-  let slideIndex = 1;
-  showSlides(slideIndex);
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  function showSlides(n) {
+<script>
+  let slideIndex = 0;
+  showSlides();
+  function showSlides() {
     let i;
     let slides = document.getElementsByClassName("slides");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
     slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 3000); // Change image every 3 seconds
   }
 </script>
 <footer>
   <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
 </footer>
-<script>
-  let slideIndex = 1;
-  showSlides(slideIndex);
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  function showSlides(n) {
-    let i;
-    let slides = document.getElementsByClassName("slides");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slides[slideIndex-1].style.display = "block";
-  }
-</script>
 </body>
 </html>
