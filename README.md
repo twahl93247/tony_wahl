@@ -37,14 +37,6 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
       <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 6.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 7.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA</div>
-    </div>
-   <div class="slides">
      <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
