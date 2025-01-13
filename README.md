@@ -68,8 +68,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
      <img src="YT_PHOTO 13.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
     </div>
-    <!-- Add more slides as needed -->
-  </div>
+ 
 </section>
 
 <script>
