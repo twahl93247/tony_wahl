@@ -1,6 +1,5 @@
 # Hello! -
 
-![Yesler Towers](Yesler%20Towers_Photo_2.jpg)
 
 I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
 
@@ -15,3 +14,6 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 
 ## Contact
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
+
+## Slideshow
+[View Project Slideshow](main-page#slideshow)
