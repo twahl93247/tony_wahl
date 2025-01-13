@@ -21,77 +21,69 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   <h2>Project Slideshow</h2>
   <div class="slideshow-container">
     <div class="slides">
-      <img src="YT_PHOTO 1.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-    <div class="slides">
-     <img src="YT_PHOTO 2.jpg" style="width:100%">
+      <img src="YT_PHOTO 1.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 3.jpg" style="width:100%">
+     <img src="YT_PHOTO 3.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 4.jpg" style="width:100%">
+     <img src="YT_PHOTO 4.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 5.jpg" style="width:100%">
+     <img src="YT_PHOTO 5.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 6.jpg" style="width:100%">
+     <img src="YT_PHOTO 6.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 7.jpg" style="width:100%">
+     <img src="YT_PHOTO 7.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 8.jpg" style="width:100%">
+     <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 9.jpg" style="width:100%">
+     <img src="YT_PHOTO 9.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 10.jpg" style="width:100%">
+     <img src="YT_PHOTO 10.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 11.jpg" style="width:100%">
+     <img src="YT_PHOTO 11.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 12.jpg" style="width:100%">
+     <img src="YT_PHOTO 12.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 13.jpg" style="width:100%">
+     <img src="YT_PHOTO 13.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
     <!-- Add more slides as needed -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
   </div>
 </section>
 
 <script>
-  let slideIndex = 1;
-  showSlides(slideIndex);
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-  function showSlides(n) {
+  let slideIndex = 0;
+  showSlides();
+  function showSlides() {
     let i;
     let slides = document.getElementsByClassName("slides");
-    if (n > slides.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = slides.length}
     for (i = 0; i < slides.length; i++) {
       slides[i].style.display = "none";
     }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}
     slides[slideIndex-1].style.display = "block";
+    setTimeout(showSlides, 5000); // Change image every 5 seconds
   }
 </script>
