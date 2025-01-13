@@ -78,12 +78,12 @@
       bottom: 8px;
       width: 100%;
       text-align: center;
+  }
+
+    #tony_wahl {
+      display: none;
     }
 
-    /* Add this style to hide the repository name */
-    #tony_wahl {display: none;}
-
-    /* Highlighted elements in orange */
     .highlight {
       color: orange;
     }
