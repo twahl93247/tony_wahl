@@ -16,47 +16,128 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 ## Contact
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
 
-
 <center><section id="slideshow">
-  <h2> </h2>
-  <div class="slideshow-container" style="max-width:100%; overflow:hidden;">
-    <div class="slides">
+  <h2>Project Slideshow</h2>
+  <div class="slideshow-container" style="max-width:100%; overflow:hidden; margin:auto;">
+    <div class="slides fade">
       <img src="YT_PHOTO 1.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 3.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 4.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 5.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 9.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 10.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 11.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-   <div class="slides">
+   <div class="slides fade">
      <img src="YT_PHOTO 12.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
+      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+      <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
- 
+    <!-- Add more slides as needed -->
+  </div>
+</section>
+
+<style>
+  .slideshow-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+  }
+
+  .slides {
+    display: none;
+  }
+
+  .fade {
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    padding: 16px;
+    margin-top: -22px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev {
+    left: 0;
+    border-radius: 3px 0 0 3px;
+  }
+
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+
+  .text {
+    color: #f2f2f2;
+    font-size: 15px;
+    padding: 8px 12px;
+    position: absolute;
+    bottom: 8px;
+    width: 100%;
+    text-align: center;
+  }
+</style>
+
 <script>
   let slideIndex = 0;
   showSlides();
@@ -70,5 +151,9 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     if (slideIndex > slides.length) {slideIndex = 1}
     slides[slideIndex-1].style.display = "block";
     setTimeout(showSlides, 5000); // Change image every 5 seconds
+  }
+
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
   }
 </script>
