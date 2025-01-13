@@ -157,14 +157,6 @@
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 6.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 7.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
      <img src="YT_PHOTO 8.jpg" style="width:100%">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
@@ -184,14 +176,6 @@
      <img src="YT_PHOTO 12.jpg" style="width:100%">
       <div class="text">Yesler Towers - Seattle, WA Description</div>
     </div>
-   <div class="slides">
-     <img src="YT_PHOTO 13.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-    <!-- Add more slides as needed -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  </div>
 </section>
 <script>
   let slideIndex = 0;
