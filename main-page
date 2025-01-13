@@ -90,9 +90,10 @@
   </style>
 </head>
 <body>
-  <header>
-    <h1>Welcome to My Architecture Portfolio</h1>
-  </header>
+<header>
+  <img src="Yesler Towers_Photo_2.jpg" alt="Header Image" style="width:100%; height:auto;">
+  <h1>Welcome to My Architecture Portfolio</h1>
+</header>
   <nav>
     <ul>
       <li><a href="#bio">About Me</a></li>
