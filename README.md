@@ -137,27 +137,25 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   </div>
 </section>
 
+  
+  <!-- Indicator dots -->
+  <div style="text-align:center">
+    <span class="dot" onclick="currentSlide(1)"></span> 
+    <span class="dot" onclick="currentSlide(2)"></span> 
+    <span class="dot" onclick="currentSlide(3)"></span> 
+    <!-- Add more dots as needed corresponding to the number of slides -->
+  </div>
+</section>
+
 <style>
   .slideshow-container {
     position: relative;
     max-width: 100%;
     margin: auto;
   }
-
   .slides {
     display: none;
   }
-
-  .fade {
-    animation-name: fade;
-    animation-duration: 1.5s;
-  }
-
-  @keyframes fade {
-    from {opacity: .4} 
-    to {opacity: 1}
-  }
-
   .prev, .next {
     cursor: pointer;
     position: absolute;
@@ -172,21 +170,17 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     border-radius: 0 3px 3px 0;
     user-select: none;
   }
-
   .next {
     right: 0;
     border-radius: 3px 0 0 3px;
   }
-
   .prev {
     left: 0;
     border-radius: 3px 0 0 3px;
   }
-
   .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
   }
-
   .text {
     color: #f2f2f2;
     font-size: 15px;
@@ -195,6 +189,18 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     bottom: 8px;
     width: 100%;
     text-align: center;
+  }
+  .dot {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  .active, .dot:hover {
+    background-color: #717171;
   }
 </style>
 
@@ -217,10 +223,10 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     if (n > slides.length) {slideIndex = 1}    
     if (n < 1) {slideIndex = slides.length}
     for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";  
+      slides[i].style.display = "none";  
     }
     for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
+      dots[i].className = dots[i].className.replace(" active", "");
     }
     slides[slideIndex-1].style.display = "block";  
     dots[slideIndex-1].className += " active";
