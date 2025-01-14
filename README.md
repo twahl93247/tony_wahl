@@ -5,7 +5,7 @@
 I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
 
 ## Projects
-- [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](link-to-samples)
+- [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](YT%20DRAWINGS%20SAMPLE.pdf)
 
    - [Yesler Towers - Glass & Steel Feature Elevator](YT%20ELEVATOR%207.pdf)
    
