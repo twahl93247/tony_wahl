@@ -1,3 +1,33 @@
+
+# Hello! -
+
+
+I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
+
+## Projects
+- [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](link-to-samples)
+
+   - [Yesler Towers - Glass & Steel Feature Elevator](YT%20ELEVATOR%207.pdf)
+   
+- [Caroline's Carport, Chelan, WA - Heavy Timber Structure - Presentation](Carolines%20Carport%20HT%20Chelan%2C%20WA.pdf)
+  
+- [Starbucks, Oak Park IL - Retail Remodel](Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf)
+  
+- [Starbucks, Sumner WA - Retail New Construction](Starbucks_Sumner%20WA.pdf)
+  
+- [Starbucks, Coos Bay OR - Retail New Construction](Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf)
+  
+- [Starbucks, Lake Dow GA - Retail New Construction](Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf)
+  
+
+## Resume
+
+[View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
+
+
+## Contact
+[twahl93@gmail.com](mailto:twahl93@gmail.com)
+
 <center><section id="slideshow">
   <h2>     </h2>
   <div class="slideshow-container" style="max-width:100%; overflow:hidden; margin:auto;">
@@ -195,33 +225,3 @@
     showSlides(slideIndex += n);
   }
 </script>
-
-# Hello! -
-
-
-I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
-
-## Projects
-- [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](link-to-samples)
-
-   - [Yesler Towers - Glass & Steel Feature Elevator](YT%20ELEVATOR%207.pdf)
-   
-- [Caroline's Carport, Chelan, WA - Heavy Timber Structure - Presentation](Carolines%20Carport%20HT%20Chelan%2C%20WA.pdf)
-  
-- [Starbucks, Oak Park IL - Retail Remodel](Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf)
-  
-- [Starbucks, Sumner WA - Retail New Construction](Starbucks_Sumner%20WA.pdf)
-  
-- [Starbucks, Coos Bay OR - Retail New Construction](Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf)
-  
-- [Starbucks, Lake Dow GA - Retail New Construction](Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf)
-  
-
-## Resume
-
-[View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
-
-
-## Contact
-[twahl93@gmail.com](mailto:twahl93@gmail.com)
-
