@@ -113,13 +113,39 @@
   <h2>My Projects</h2>
   <div class="slideshow-container">
     <div class="slides">
-      <img src="project1.jpg" style="width:100%">
-      <div class="text">Project 1 Description</div>
-    </div>
-    <div class="slides">
-      <a href="23_08.08 PHASE 3 PERMIT REVISION - ELEVATOR 7.pdf">
+      <a href="23_08.08%20PHASE%203%20PERMIT%20REVISION%20-%20ELEVATOR%207.pdf">
         <img src="project2.jpg" style="width:100%">
         <div class="text highlight">Yesler Towers - Elevator 7 Description</div>
+      </a>
+    </div>
+    <div class="slides">
+      <a href="Carolines%20Carport%20(Heavy%20timber)%20Chelan%2C%20WA.pdf">
+        <img src="CAROLINES CARPORT 2 CHELAN WA.jpg" style="width:100%">
+        <div class="text highlight">Caroline's Carport - Chelan, WA</div>
+      </a>
+    </div>
+    <div class="slides">
+      <a href="Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf">
+        <img src="Lake & Euclid 2.jpg" style="width:100%">
+        <div class="text highlight">Starbucks Remodel - Euclid, IL</div>
+      </a>
+    </div>
+    <div class="slides">
+      <a href="Starbucks_Sumner%20WA.pdf">
+        <img src="project1.jpg" style="width:100%">
+        <div class="text highlight">Starbucks, Sumner WA Description</div>
+      </a>
+    </div>
+    <div class="slides">
+      <a href="Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf">
+        <img src="project1.jpg" style="width:100%">
+        <div class="text highlight">Starbucks, Coos Bay OR Description</div>
+      </a>
+    </div>
+    <div class="slides">
+      <a href="Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf">
+        <img src="project1.jpg" style="width:100%">
+        <div class="text highlight">Starbucks, Lake Dow GA Description</div>
       </a>
     </div>
     <!-- Add more slides as needed -->
