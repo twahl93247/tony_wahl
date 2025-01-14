@@ -6,7 +6,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 ## Projects
 - [Yesler Towers, Seattle WA | Mixed Use Tower - Drawing Samples](link-to-samples)
 
-- [Yesler Towers | Glass & Steel Feature Elevator](YT%20ELEVATOR%207.pdf)
+- [Yesler Towers](YT%20ELEVATOR%207.pdf)
    
 - [Caroline's Carport, Chelan, WA | Heavy Timber Structure - Presentation](Carolines%20Carport%20HT%20Chelan%2C%20WA.pdf)
   
