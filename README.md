@@ -232,3 +232,8 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     dots[slideIndex-1].className += " active";
   }
 </script>
+<style>
+  body {
+    background-color: #f2b9b1;
+  }
+</style>
