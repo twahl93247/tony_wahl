@@ -135,7 +135,6 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     </div>
     <!-- Add more slides as needed -->
   </div>
-  <button id="pauseButton" onclick="togglePause()">Pause</button>
 </section>
 
 <style>
