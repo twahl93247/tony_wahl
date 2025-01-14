@@ -213,7 +213,9 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   a {
     color: #784937;
   }
-   
+    hr {
+    border: 1px solid #994636;
+  }
 </style>
 
 <script>
