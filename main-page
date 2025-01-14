@@ -88,7 +88,7 @@
   <h2>Contact Me</h2>
   <form action="mailto:twahl93@gmail.com" method="post" enctype="text/plain">
     <label for="name">Name:</label><br>
-    <input type="text" id="name" name="name"><br>
+    <input type="text" id="name" name="name" required>
     <label for="email">Email:</label><br>
     <input type="email" id="email" name="email"><br>
     <label for="message">Message:</label><br>
@@ -97,7 +97,9 @@
   </form>
 </section>
 <footer>
+  <p>© 2025 Tony Wahl. All rights reserved.</p>
   <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
 </footer>
+
 </body>
 </html>
