@@ -109,32 +109,25 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
-        <div class="slides">
-     <img src="CAROLINES CARPORT 1 CHELAN WA.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Caroline's Carport - Chelan, WA</div>
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>    <div class="slides">
-     <img src="CAROLINES CARPORT 2 CHELAN WA.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Caroline's Carport - Chelan, WA</div>
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>    <div class="slides">
+    <div class="slides">
      <img src="Lake & Euclid 1.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Starbucks Remodel - Euclid, IL</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>    <div class="slides">
+    </div>   
+     <div class="slides">
      <img src="Lake & Euclid 2.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Starbucks Remodel - Euclid, IL</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>    <div class="slides">
+    </div>   
+     <div class="slides">
      <img src="Lake & Euclid 3.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Starbucks Remodel - Euclid, IL</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>    <div class="slides">
+    </div>   
+     <div class="slides">
      <img src="Lake & Euclid 4.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Starbucks Remodel - Euclid, IL</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
