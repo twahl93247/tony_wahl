@@ -202,6 +202,11 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   .active, .dot:hover {
     background-color: #717171;
   }
+
+  body {
+    background-color: #f2b9b1;
+  }
+
 </style>
 
 <script>
@@ -232,8 +237,4 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     dots[slideIndex-1].className += " active";
   }
 </script>
-<style>
-  body {
-    background-color: #f2b9b1;
-  }
-</style>
+
