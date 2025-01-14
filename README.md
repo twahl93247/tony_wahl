@@ -206,7 +206,14 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   body {
     background-color: #f2d9b1;
   }
-
+ body {
+    color: #423d37;
+  }
+   
+  a {
+    color: #bb8034;
+  }
+   
 </style>
 
 <script>
