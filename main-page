@@ -46,47 +46,6 @@
       text-decoration: none;
       color: blue;
     }
-    .slideshow-container {
-      max-width: 1000px;
-      position: relative;
-      margin: auto;
-    }
-    .slides {
-      display: none;
-    }
-    .prev, .next {
-      cursor: pointer;
-      position: absolute;
-      top: 50%;
-      width: auto;
-      padding: 16px;
-      margin-top: -22px;
-      color: white;
-      font-weight: bold;
-      font-size: 18px;
-      transition: 0.6s ease;
-      border-radius: 0 3px 3px 0;
-      user-select: none;
-    }
-    .next {
-      right: 0;
-      border-radius: 3px 0 0 3px;
-    }
-    .prev:hover, .next:hover {
-      background-color: rgba(0,0,0,0.8);
-    }
-    .text {
-      color: #f2f2f2;
-      font-size: 15px;
-      padding: 8px 12px;
-      position: absolute;
-      bottom: 8px;
-      width: 100%;
-      text-align: center;
-    }
-    #tony_wahl {
-      display: none;
-    }
     .highlight {
       color: orange;
     }
@@ -111,47 +70,14 @@
 </section>
 <section id="projects">
   <h2>My Projects</h2>
-  <div class="slideshow-container">
-    <div class="slides">
-      <a href="YT ELEVATOR 7.pdf">
-        <img src="YT ELEVATOR 7.pdf" style="width:100%">
-        <div class="text highlight">Yesler Towers - Elevator 7 Description</div>
-      </a>
-    </div>
-    <div class="slides">
-      <a href="Carolines%20Carport%20(Heavy%20timber)%20Chelan%2C%20WA.pdf">
-        <img src="CAROLINES CARPORT 2 CHELAN WA.jpg" style="width:100%">
-        <div class="text highlight">Caroline's Carport - Chelan, WA</div>
-      </a>
-    </div>
-    <div class="slides">
-      <a href="Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf">
-        <img src="Lake & Euclid 2.jpg" style="width:100%">
-        <div class="text highlight">Starbucks Remodel - Euclid, IL</div>
-      </a>
-    </div>
-    <div class="slides">
-      <a href="">
-        <img src="project1.jpg" style="width:100%">
-        <div class="text highlight">Starbucks, Sumner WA Description</div>
-      </a>
-    </div>
-    <div class="slides">
-      <a href="Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf">
-        <img src="project1.jpg" style="width:100%">
-        <div class="text highlight">Starbucks, Coos Bay OR Description</div>
-      </a>
-    </div>
-    <div class="slides">
-      <a href="Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf">
-        <img src="project1.jpg" style="width:100%">
-        <div class="text highlight">Starbucks, Lake Dow GA Description</div>
-      </a>
-    </div>
-    <!-- Add more slides as needed -->
-    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-    <a class="next" onclick="plusSlides(1)">&#10095;</a>
-  </div>
+  <ul>
+    <li><a href="YT ELEVATOR 7.pdf">Yesler Towers - Elevator 7 Description</a></li>
+    <li><a href="Carolines%20Carport%20(Heavy%20timber)%20Chelan%2C%20WA.pdf">Caroline's Carport - Chelan, WA</a></li>
+    <li><a href="Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf">Starbucks Remodel - Euclid, IL</a></li>
+    <li><a href="Starbucks_Sumner WA.pdf">Starbucks, Sumner WA Description</a></li>
+    <li><a href="Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf">Starbucks, Coos Bay OR Description</a></li>
+    <li><a href="Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf">Starbucks, Lake Dow GA Description</a></li>
+  </ul>
 </section>
 <section id="resume">
   <h2>My Resume</h2>
@@ -170,61 +96,6 @@
     <input type="submit" value="Send">
   </form>
 </section>
-<section id="slideshow">
-  <h2>Project Slideshow</h2>
-  <div class="slideshow-container">
-    <div class="slides">
-      <img src="YT_PHOTO 1.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 3.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 4.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 5.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 8.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 9.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 10.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 11.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-   <div class="slides">
-     <img src="YT_PHOTO 12.jpg" style="width:100%">
-      <div class="text">Yesler Towers - Seattle, WA Description</div>
-    </div>
-</section>
-<script>
-  let slideIndex = 0;
-  showSlides();
-  function showSlides() {
-    let i;
-    let slides = document.getElementsByClassName("slides");
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    slideIndex++;
-    if (slideIndex > slides.length) {slideIndex = 1}
-    slides[slideIndex-1].style.display = "block";
-    setTimeout(showSlides, 3000); // Change image every 3 seconds
-  }
-</script>
 <footer>
   <p>Contact: <a href="mailto:twahl93@gmail.com">twahl93@gmail.com</a></p>
 </footer>
