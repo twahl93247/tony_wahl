@@ -6,11 +6,11 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 ## Projects
 - [Yesler Towers, Seattle WA | Mixed Use Tower - Drawing Samples]()
   - [Yesler Towers | Glass & Steel Feature Elevator](23_08.08%20PHASE%203%20PERMIT%20REVISION%20-%20ELEVATOR%207.pdf)
-- [Caroline's Carport, Chelan, WA | Heavy Timber Structure - Presentation]()
-- [Starbucks, Oak Park IL | Retail Remodel]()
-- [Starbucks, Sumner WA | Retail New Construction]() 
-- [Starbucks, Coos Bay OR | Retail New Construction]()
-- [Starbucks, Lake Dow GA | Retail New Construction]()
+- [Caroline's Carport, Chelan, WA | Heavy Timber Structure - Presentation]((Carolines%20Carport%20(Heavy%20timber)%20Chelan%2C%20WA.pdf))
+- [Starbucks, Oak Park IL | Retail Remodel](Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf)
+- [Starbucks, Sumner WA | Retail New Construction](Starbucks_Sumner%20WA.pdf)
+- [Starbucks, Coos Bay OR | Retail New Construction](Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf)
+- [Starbucks, Lake Dow GA | Retail New Construction](Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf)
   
 ## Resume 
 
