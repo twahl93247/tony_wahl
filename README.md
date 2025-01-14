@@ -211,7 +211,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
   }
    
   a {
-    color: #bb8034;
+    color: #784937;
   }
    
 </style>
