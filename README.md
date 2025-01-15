@@ -160,6 +160,11 @@ Explore my resume and work samples to learn more about my projects
 
 
 <style>
+     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+  body {
+    font-family: 'Montserrat', sans-serif;
+  }
   .slideshow-container {
     position: relative;
     max-width: 100%;
