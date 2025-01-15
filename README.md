@@ -216,7 +216,7 @@ Explore my resume and work samples to learn more about my projects
   }
 
   body {
-    background-color: #fcf1e7;
+    background-color: #994636;
   }
  body {
     color: #423d37;
