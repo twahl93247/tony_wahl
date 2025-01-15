@@ -157,7 +157,7 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
     <span class="dot" onclick="currentSlide(17)"></span> 
     <!-- Add more dots as needed corresponding to the number of slides -->
   </div>
-</section>
+
 
 <style>
   .slideshow-container {
