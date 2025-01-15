@@ -1,8 +1,9 @@
-
-
 # Hello! -
 
-I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
+Tony Wahl – Architectural Designer
+With a Master of Architecture and a passion for innovative, sustainable design, I specialize in multifamily housing, mixed-use, retail architecture, and adaptive reuse projects. My experience ranges from contributing to high-rise developments like Yesler Towers - Seattle, WA to retail renovations for national brands. I bring a strong foundation in BIM modeling, construction documentation, construction managemnt, and design iteration, paired with a deep appreciation for context-driven, environmentally responsible architecture.
+
+Explore my resume and work samples to learn more about my projects
 
 ## Projects
 - [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](YT%20DRAWINGS%20SAMPLE.pdf)
