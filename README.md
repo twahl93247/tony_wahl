@@ -4,12 +4,12 @@ i'm Tony Wahl – an Architectural Designer with a Master of Architecture and a 
 
 Explore my resume and work samples to learn more about my projects
 
-## Projects
-- [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](YT%20DRAWINGS%20SAMPLE.pdf)
+## Work Samples
+- [Yesler Towers, Seattle WA - Mixed Use Tower](YT%20DRAWINGS%20SAMPLE.pdf)
 
    - [Yesler Towers - Glass & Steel Feature Elevator](YT%20ELEVATOR%207.pdf)
    
-- [Caroline's Carport, Chelan, WA - Heavy Timber Structure - Presentation](Carolines%20Carport%20HT%20Chelan%2C%20WA.pdf)
+- [Caroline's Carport, Chelan WA - Heavy Timber Structure](Carolines%20Carport%20HT%20Chelan%2C%20WA.pdf)
   
 - [Starbucks, Oak Park IL - Retail Remodel](Starbucks%20Renovation_Lake%20%26%20Oak%20Park_IL.pdf)
   
