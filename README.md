@@ -1,6 +1,6 @@
 # Hello! -
 
-i'm Tony Wahl – an Architectural Designer with a Master of Architecture and a passion for innovative, sustainable design. I specialize in multifamily housing, mixed-use, retail architecture, and adaptive reuse projects. My experience ranges from contributing to high-rise developments like Yesler Towers - Seattle, WA to retail renovations & new construction projects for national brands. I bring a strong foundation in BIM modeling, construction documentation, construction managemnt, and design iteration, paired with a deep appreciation for context-driven, environmentally responsible architecture.
+I'm Tony Wahl – an Architectural Designer with a Master of Architecture and a passion for innovative, sustainable design. I specialize in multifamily housing, mixed-use, retail architecture, and adaptive reuse projects. My experience ranges from contributing to high-rise developments like Yesler Towers - Seattle, WA to retail renovations & new construction projects for national brands. I bring a strong foundation in BIM modeling, construction documentation, construction managemnt, and design iteration, paired with a deep appreciation for context-driven, environmentally responsible architecture.
 
 Explore my resume and work samples to learn more about my projects
 
