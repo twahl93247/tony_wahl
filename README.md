@@ -1,8 +1,12 @@
+<hr>
 
 # Hello! -
 
+<hr>
 
 I'm Tony Wahl, an architectural designerwith a passion for creating innovative and sustainable spaces. I hold a master's degree from the College of Architecture & Environmental Design, with a minor in historic preservation. 
+
+<hr>
 
 ## Projects
 - [Yesler Towers, Seattle WA - Mixed Use Tower - Drawing Samples](YT%20DRAWINGS%20SAMPLE.pdf)
@@ -18,15 +22,19 @@ I'm Tony Wahl, an architectural designerwith a passion for creating innovative a
 - [Starbucks, Coos Bay OR - Retail New Construction](Starbucks%20Coos%20Bay%20OR_Construction%20Documents.pdf)
   
 - [Starbucks, Lake Dow GA - Retail New Construction](Starbucks_HWY%2081%20%26%20Lake%20Dow%2C%20GA.pdf)
-  
+
+  <hr>
 
 ## Resume
 
 [View Resume](Tony%20Wahl%20Resume%2025_01.08.pdf)
 
+<hr>
 
 ## Contact
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
+
+<hr>
 
 <center><section id="slideshow">
   <h2>     </h2>
