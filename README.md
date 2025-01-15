@@ -259,3 +259,18 @@ Explore my resume and work samples to learn more about my projects
   }
 </script>
 
+<style>
+  .footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #efe5dc;
+    color: #423d37;
+    font-size: 12px;
+  }
+</style>
+
+<!-- Your existing content -->
+
+<div class="footer">
+  Yesler Towers - Seattle, WA's Photos by: Kirk Hostetter Photography 
+</div>
