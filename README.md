@@ -270,7 +270,3 @@ Explore my resume and work samples to learn more about my projects
 </style>
 
 <!-- Your existing content -->
-
-<div class="footer">
-  Yesler Towers - Seattle, WA Photos by: Kirk Hostetter Photography 
-</div>
