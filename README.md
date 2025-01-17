@@ -54,12 +54,6 @@ Explore my resume and work samples to learn more about my projects
       <a class="next" onclick="plusSlides(1)">&#10095;</a>
     </div>
    <div class="slides">
-     <img src="YT_PHOTO 5.jpg" style="height:600px; width:auto; object-fit:cover;">
-      <div class="text">Yesler Towers - Seattle, WA</div>
-      <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-      <a class="next" onclick="plusSlides(1)">&#10095;</a>
-    </div>
-   <div class="slides">
      <img src="YT_PHOTO 8.jpg" style="height:600px; width:auto; object-fit:cover;">
       <div class="text">Yesler Towers - Seattle, WA</div>
       <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
