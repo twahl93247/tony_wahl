@@ -21,7 +21,7 @@ Explore my resume and work samples to learn more about my projects
 
 ## Resume
 
-[View Resume](Tony%20Wahl%20Resume_25_02.25.pdf)
+[View Resume](Tony%20Wahl%20Resume_25_02.24.pdf)
 
 ## Contact
 [twahl93@gmail.com](mailto:twahl93@gmail.com)
